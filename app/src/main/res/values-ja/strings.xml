@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">壁紙チェンジャー</string>
+    <string name="txt_setting_title">壁紙チェンジャー設定</string>
+    <string name="txt_setting_interval">更新間隔</string>
+    <string name="txt_setting_target">更新対象</string>
+    <string name="txt_setting_status">ステータス</string>
+    <string name="txt_setting_folder">対象画像フォルダ</string>
+    <string name="btn_setting_update">設定更新</string>
+    <string name="btn_setting_stop">更新停止</string>
+    <string name="btn_setting_change">変更</string>
+    <string name="btn_setting_sample">サンプル</string>
+    <string name="txt_interval_1day">1日ごと</string>
+    <string name="txt_interval_12hours">12時間ごと</string>
+    <string name="txt_interval_2hours">2時間ごと</string>
+    <string name="txt_interval_1hours">1時間ごと</string>
+    <string name="txt_interval_30minute">30分ごと</string>
+    <string name="txt_interval_15minute">15分ごと</string>
+    <string name="txt_target_system">壁紙</string>
+    <string name="txt_target_system_and_lock">壁紙とロック画面</string>
+    <string name="txt_target_lock">ロック画面</string>
+    <string name="txt_message1">1つも選択されていません</string>
+    <string name="sdt_format">yyyy/MM/dd HH:mm:ss</string>
+    <string name="dlg_permission_title">権限の許可が必要です</string>
+    <string name="dlg_permission_message">画像を参照するためには「ファイルとメディア」への許可が必要です。アプリ情報画面で権限を設定してください</string>
+    <string name="dlg_permission_ok">設定を開く</string>
+    <string name="dlg_permission_cancel">キャンセル</string>
+    <string name="toast_message1">対象画像フォルダを変更してください</string>
+    <string name="toast_message2">権限を許可してください</string>
+    <string name="toast_message3">壁紙の更新を要求しました</string>
+</resources>

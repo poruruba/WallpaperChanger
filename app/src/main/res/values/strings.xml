@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WallpaperChanger</string>
+    <string name="txt_setting_title">WallpaperChanger Config</string>
+    <string name="txt_setting_interval">Update interval</string>
+    <string name="txt_setting_target">Update target</string>
+    <string name="txt_setting_status">Update status</string>
+    <string name="txt_setting_folder">Target image folders</string>
+    <string name="btn_setting_update">Update config</string>
+    <string name="btn_setting_stop">Stop update</string>
+    <string name="btn_setting_change">Update</string>
+    <string name="btn_setting_sample">Sample</string>
+    <string name="txt_interval_1day">Every day</string>
+    <string name="txt_interval_12hours">Every 12 hours</string>
+    <string name="txt_interval_2hours">Every 2 hours</string>
+    <string name="txt_interval_1hours">Every hour</string>
+    <string name="txt_interval_30minute">Every 30 minutes</string>
+    <string name="txt_interval_15minute">Every 15 minutes</string>
+    <string name="txt_target_system">System screen</string>
+    <string name="txt_target_system_and_lock">System and lock screens</string>
+    <string name="txt_target_lock">Lock screen</string>
+    <string name="txt_message1">None selected</string>
+    <string name="sdt_format">yyyy/MM/dd HH:mm:ss</string>
+    <string name="dlg_permission_title">Permission required</string>
+    <string name="dlg_permission_message">To view images, you need permission to "Files and Media". Please set permissions on the app information</string>
+    <string name="dlg_permission_ok">Open settings</string>
+    <string name="dlg_permission_cancel">Cancel</string>
+    <string name="toast_message1">Please change the target image folder</string>
+    <string name="toast_message2">Permission required</string>
+    <string name="toast_message3">Requested wallpaper update</string>
+</resources>
